@@ -76,6 +76,7 @@ baidu.com##.square-banner-icon.index-banner
 baidu.com##.suggest-hot
 baidu.com##[class*=afd]
 baidu.com##[class=related-news]
+baidu.com##[class^="ball-wrapper"]
 baidu.com##[class^="openApp"]
 baidu.com##article[class*="c-container aladdin__3qKHL"][rl-link-href$=".recommend_list.baidu.com"]
 baidu.com##article[style*="rgba(255, 0, 0, 0);display:"]
