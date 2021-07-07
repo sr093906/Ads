@@ -1,10 +1,3 @@
-[Adblock Plus 2.0]
-!Version:2020/12/13/17:30
-!Title:Mobile Ads
-!Author:YanFung
-!Description:广告反馈QQ群:514536444
-!Homepage:https://github.com/YanFung/Ads/
-
 a3.ikafan.com
 ad.mobile.youku.com
 addthis.com
@@ -964,6 +957,7 @@ baidu.com##.square-banner-icon.index-banner
 baidu.com##.suggest-hot
 baidu.com##[class*=afd]
 baidu.com##[class=related-news]
+baidu.com##[class^="ball-wrapper"]
 baidu.com##[class^="openApp"]
 baidu.com##article[class*="c-container aladdin__3qKHL"][rl-link-href$=".recommend_list.baidu.com"]
 baidu.com##article[style*="rgba(255, 0, 0, 0);display:"]
