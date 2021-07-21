@@ -330,6 +330,7 @@ sina.cn##.an.cm_art_push
 sina.cn##.an.fl_feedFous
 sina.cn##.fl_listen_template
 sina.cn##.fl_oem_img.fl_suspension_link
+sina.cn##.foldBtn
 sina.cn##.j_call_native.sp.cm_fl_call
 sina.cn##.j_call_native.videoDes_newsApp
 sina.cn##.m_f_a[data-href^="http://saxs."]

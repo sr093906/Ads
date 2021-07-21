@@ -158,6 +158,7 @@
 ##.btn_app_link
 ##.btn_openapp
 ##.call-app-btn
+##.callApp_fl_btn
 ##.centerAd
 ##.container > .ads
 ##.container > .pic_container
