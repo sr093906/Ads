@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+!Title:Mobile Ads
+!Author:YanFung
+!Description:广告反馈QQ羿514536444
+!Homepage:https://github.com/YanFung/Ads/
+
 a3.ikafan.com
 ad.mobile.youku.com
 addthis.com
@@ -515,6 +521,7 @@ zuoyebang.cc/static/question/m-question/resource*.jpg$image
 ##.btn_app_link
 ##.btn_openapp
 ##.call-app-btn
+##.callApp_fl_btn
 ##.centerAd
 ##.container > .ads
 ##.container > .pic_container
@@ -1211,6 +1218,7 @@ sina.cn##.an.cm_art_push
 sina.cn##.an.fl_feedFous
 sina.cn##.fl_listen_template
 sina.cn##.fl_oem_img.fl_suspension_link
+sina.cn##.foldBtn
 sina.cn##.j_call_native.sp.cm_fl_call
 sina.cn##.j_call_native.videoDes_newsApp
 sina.cn##.m_f_a[data-href^="http://saxs."]
