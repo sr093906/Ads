@@ -494,13 +494,6 @@ youku.com##.clipboard
 youku.com##div[class="Corner-container"][style]
 youku.com##div[id][class*="circle-wrapper"]
 youku.com##div[style^="width: 100px; height: 100px; "]
-youtube.com###YtSparklesVisibilityIdentifier
-youtube.com##.mealbar-promo-renderer
-youtube.com##.promoted-sparkles-text-search-root-container
-youtube.com##YTM-PROMOTED-VIDEO-RENDERER
-youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
-youtube.com##ytm-promoted-sparkles-text-search-renderer
-youtube.com##ytm-promoted-sparkles-web-renderer
 yuedu.163.com##img[src*="/yunyuedu.png"]
 yuewz.com###add_desktop
 yxflz.com##.c_box > div[style]

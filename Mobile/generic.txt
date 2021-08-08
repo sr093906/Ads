@@ -43,10 +43,12 @@
 ###js-download
 ###js-fix-download
 ###js-openInApp
+###masthead-ad
 ###midThreeAds
 ###newapp2018
 ###openapp__fix
 ###pl-ad-after-comments
+###player-ads
 ###player-advertising
 ###rightad
 ###sponsorAdDiv
