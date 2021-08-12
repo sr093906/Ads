@@ -176,6 +176,7 @@
 ##.down-top
 ##.download-app
 ##.download-app-go
+##.download-app-image-btn
 ##.download-app-tip
 ##.download-bar
 ##.download-btn
