@@ -120,6 +120,7 @@ bilibili.com##.pink.f-right.basic.bili-btn
 bilibili.com##div[class*="-callapp"]
 bing.com###BottomAppPro
 blog.csdn.net##.feed-Sign-span
+blog.csdn.net##.weixin-shadowbox
 blog.sina.cn###pl-float-bar
 blog.sina.cn##.j_fl_da.fl_style_da
 btbtdy.com###bot

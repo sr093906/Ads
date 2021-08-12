@@ -158,6 +158,7 @@
 ##.btn-open-app
 ##.btn.app-open-btn
 ##.btn_app_link
+##.btn_open_app_prompt_item
 ##.btn_openapp
 ##.call-app-btn
 ##.callApp_fl_btn
