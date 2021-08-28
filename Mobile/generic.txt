@@ -459,6 +459,7 @@
 /common/cf/$image
 /cpro/ui/*
 /csi_204?$image
+/d/*-*-*.ap|$script
 /floatad.$domain=~fwxgx.com
 /footerad.
 /fuckadblock.js
@@ -507,6 +508,7 @@
 /wap_*_ad*.js
 /xxd.php?id=$script
 /z.zolapp.
+:10443/*/*-*-*.js
 :5678/mb1/wap_
 :8888/mb1/wap_
 =adunit&
