@@ -159,6 +159,8 @@ fanyi.baidu.com##.app-bar
 feng.com##.float-tip > [src^="data:image/png"]
 feng.com##.header
 gfan.com##.downs
+guancha.cn##.g_header44
+guancha.cn##.g_swiper_container
 hao123.com###btn
 hao123.com##.popup
 hao123.com##[class*="cn_tips"]

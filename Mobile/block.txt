@@ -191,6 +191,7 @@ sohu.com/integration-api/pure/region
 sspai.com/api/v1/recommends?*=article_
 static.cnqiang.com/images/appdlx.jpg$image
 static.thefifthera.com/h5/wapSdk/asset/sdk/sdk-doutui.js
+static.zhihu.com/heifetz/*.signflow.$script
 su.bdimg.com/static/dspui/js/
 t*.baidu.com/it/u=*,*&fm=76$third-party
 taobao.com/adloader?uuid=
