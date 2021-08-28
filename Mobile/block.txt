@@ -168,6 +168,7 @@ qq.com/static/web/websites/newsplugin/ssp_ad_
 qq.com/tbs/tbsad/
 qq.com/xw/getUserH5Games?
 renren.com/static/*?ad_
+s1.hdslb.com/bfs/static/jinkela/mstation-video-h5/assets/btn-open-app.png$image
 sax*.sina.
 securepubads.
 shihuo.cn/alibtn_
