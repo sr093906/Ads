@@ -275,7 +275,6 @@ nbd.com.cn##[class=header]
 neihanshe.cn##.tips_bar
 news.baidu.com###share
 news.ifeng.com##[class^=content-]>[class^=link-]
-news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
 open.163.com##.call_app
 open.163.com##.fix-bot
 p4yy.com##.leaveNavInfo

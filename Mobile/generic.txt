@@ -45,6 +45,7 @@
 ###js-openInApp
 ###masthead-ad
 ###midThreeAds
+###midThreeAds
 ###newapp2018
 ###openapp__fix
 ###pl-ad-after-comments
@@ -162,6 +163,7 @@
 ##.btn_openapp
 ##.call-app-btn
 ##.callApp_fl_btn
+##.callApp_fl_btn_di
 ##.centerAd
 ##.container > .ads
 ##.container > .pic_container
