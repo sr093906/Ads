@@ -217,9 +217,6 @@ xz15801.com/y.js
 youdao.com/market/banner/banner
 youdao.com/rlog.php
 youtube.com/api/stats/ads?
-youtube.com/get_midroll_
-youtube.com/pagead/
-youtube.com/ptracking?
 zanghaihuatxt.com/xxgg/book.js
 zdface.com/js/m/zw_banner.js
 zhihu.com/api/v4/alter_banners/

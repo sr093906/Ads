@@ -141,6 +141,7 @@
 ##.article-top-ad
 ##.asd-imga
 ##.b_ad
+##.badge-style-type-ad
 ##.baichuan-ad-wrapper
 ##.baidu_ads_cell
 ##.bannerad
@@ -282,6 +283,7 @@
 ##[href*="www.qkweixin.com"]
 ##[href="https://member.guancha.cn/gw-gift/index"]
 ##[href^="http://www.360doc.cn/khd.aspx"]
+##[layout*="display-ad-"]
 ##[src$="co.baifubao.com/kangbo_001.png"]
 ##[src*="img.fl6n.com/adtop/"]
 ##[src*="tiexue.net/zgg/"]
@@ -315,6 +317,7 @@
 ##a[href="http://www.speedtest.cn/products/mifi"]
 ##a[href] > img[style][src*="/upload.cc"]
 ##a[href^="http://go.gotourl.xyz/"]
+##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 ##a[style="display:inline-block;font-weight:bold;color:#f00;border:1px solid #f00;border-radius:15px;padding:2px 5px 2px 5px;margin:5px 5px 5px 0px;"]
 ##div.download-app
 ##div[ad_name]
@@ -427,6 +430,7 @@
 /ad4.$domain=~ad4.wpengine.com|~vereinslinie.de
 /ad_banner.
 /ad_status.
+/ad_status.js
 /ad_unified_access?
 /adcontrol.
 /adfolder/
