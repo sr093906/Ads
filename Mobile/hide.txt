@@ -70,7 +70,6 @@ baidu.com##.mkt-ball-wrapper
 baidu.com##.navs-bottom-bar
 baidu.com##.news-container
 baidu.com##.openall3
-baidu.com##.page-banner
 baidu.com##.square-banner-bgicon.index-banner
 baidu.com##.square-banner-icon.index-banner
 baidu.com##.suggest-hot
