@@ -159,6 +159,7 @@
 ##.bt-open-btn
 ##.btn-open-app
 ##.btn.app-open-btn
+##.btnForAppOpenA
 ##.btn_app_link
 ##.btn_open_app_prompt_item
 ##.btn_openapp
@@ -226,6 +227,7 @@
 ##.module-ad
 ##.new-free-ad
 ##.news-ad
+##.oo-ad
 ##.open-app
 ##.open-app-banner
 ##.open-app-btn

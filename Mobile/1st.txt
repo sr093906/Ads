@@ -93,6 +93,7 @@ rabc1.iteye.com
 s.360.cn
 sa.sina.cn
 smartadserver.com
+ss.gerenjianli.com
 stadig.ifeng.com
 static.doubleclick.net
 static.gridsumdissector.com
